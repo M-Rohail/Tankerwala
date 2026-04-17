@@ -68,8 +68,8 @@
     <td align="center"><b>Sign Up</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/signin.png" width="220"/></td>
-    <td><img src="screenshots/signup.png" width="220"/></td>
+    <td><img src="signin.png" width="220"/></td>
+    <td><img src="signup.png" width="220"/></td>
   </tr>
 </table>
 
