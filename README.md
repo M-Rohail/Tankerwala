@@ -60,20 +60,20 @@
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 <table>
   <tr>
-    <td align="center"><b>Home</b></td>
-    <td align="center"><b>Booking</b></td>
-    <td align="center"><b>Tracking</b></td>
-    <td align="center"><b>Profile</b></td>
+    <td align="center"><b>Sign In</b></td>
+    <td align="center"><b>Sign Up</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/home.png" width="180"/></td>
-    <td><img src="screenshots/booking.png" width="180"/></td>
-    <td><img src="screenshots/tracking.png" width="180"/></td>
-    <td><img src="screenshots/profile.png" width="180"/></td>
+    <td><img src="screenshots/signin.png" width="220"/></td>
+    <td><img src="screenshots/signup.png" width="220"/></td>
   </tr>
 </table>
+
+> 📌 More screenshots coming soon
 
 > 📌 Add your screenshots inside a `screenshots/` folder in the repo root
 
